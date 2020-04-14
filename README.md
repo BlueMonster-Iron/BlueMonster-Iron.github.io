@@ -1,14 +1,8 @@
-# Creative Theme for Jekyll
+# BLUE MONSTER 소개 페이지
+대구 청년 20~30대를 증심으로 모인 철인3종 클럽
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
-
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
-
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
-
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+### 구성
+- ABOUT : 간단한 클럽 소개
+- MANAGER : 클럽 운영진 소개
+- ARCHIVE : 클럽 활동 사진
+- CONTACT : 블로그 및 인스타
